@@ -1,0 +1,13 @@
+Rubijs
+======
+
+A Rubinius bytecode interpreter running in JavaScript.
+
+Remember HotRuby ? Something like that but for rubinius bytecode.
+
+# Why?
+
+I want to learn Rubinius VM internals. So I'll be reading
+the source code and trying to port the instruction interpreter
+to javascript. Creating a minimalist rubinius core. 
+
